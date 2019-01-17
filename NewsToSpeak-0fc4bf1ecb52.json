@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "newstospeak",
+  "private_key_id": "0fc4bf1ecb52bd37fa2950dceafb1953f7c59e06",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDG+mLm0NaN/Ame\nZXWitWPQVSx2Wp3Q2Y3H8Jy35O3QGeq9n5qAWPBQnevKBszS7/1pN39LXCmcLY5E\nRrEr2eRkG1inmRDJe5G0CX0I9huhfuNESjtGiF269F7tvDhUYFf3wBusKnZmUpuu\nkruXuLM9CTcrJhy7jTf+E2W+YnVpWhH3LGxHgLzqs8X3Oky2n+KNU/o4IY4ZGSNc\nXPKG2JSt/ocmtTxWFfw4LUQqom50oGCRWH21BQ3/XaPJuF/jTzPWxcIocwkdGTM9\n6jvGEM4+ZD6tYhzWTOXVDzLFYdYams7ys/KmaUSKN7TCVhpQfLuIH67PpsWEDoci\n15dTSa5jAgMBAAECggEAXi1moE7aLkvLla/59LAb9SBLMh2DsrU12Rt2Yce2E5gg\nte2T6AmwfMeyMWX0jiZO7/z3gAi4HRamzoQTGWlBI2yaEoFtI6Ab/3W6O4KY42A2\nWz0zPxgOHQ3K3IUIuE79c+L2dg+HCLkyvHbw2UfvdgUlmoOod9DIXrZ5opnhbqH/\n0xNNLfU6V2sNAdFLGiLZoap1p/KKopETJMZugpWTAHhAuXgVf/RA2Hrho4w0utCl\nCoDzPem3TyredRL3RQiQ5xJWjgVT++ZY7ox/vL/ITkvzGPHi/M/nD788gN+TMiGa\nCtTO/xGiNbe1hKNZKF8L8TKCbeCkX2ApoYKp/TF5+QKBgQDx6M0aM5dpHhuHGwya\nrR9bX+rBKfMqLEedTMN9VN4PTDZ21A2YSLKJ1oHLeZoNvNepzm+cqcLbV9IDtYhB\ns2k1jwKghGS0EA373KJC0+fR4gv8KCbttIyCB1MjLHG819EMCNH9gO24kbjAIBFK\nh4Z+6QvRVLrC7dBbKLapDIQWbQKBgQDSkWu5CCn+1ERK3olQD+gjYLYBlWWXAqIv\n05ZLZuEyKqH/0bQFRbvYrgMquueT/EOvVRp/jWaM72DLmPE8RPHnJFJj4n/LZa2p\nYS/SYKnfXgScxJbzKOQq7URTAc7lcVQYynK7tvpX+U4tquLTTZggDCdi+CcGeVHl\ne4qlzLsWDwKBgQDqy+TXO6AIXTqmxfBT6Rj4XX7Dge4MzvGrkahk64ylGHn8mBGh\n712rP9K3Jg4Kq3I/1KisTHFe6DxlcTsRWgwR+f64wgfkZXjNLvcnGfp10ouDcY1n\nRsjiJC3jg+3ZNzgmECGRhiQ18up5QCbISgaXA6d+xFiJfr2u3TN9nTJPeQKBgBUk\nLKCjRTQks8agmUDEmBYVO7DlAxIqXYZXxBtF9Q5IYYOB1oVA/x8+OWss4Ntm1JTi\nAosT81vrHNjUPkRC19bROsR0lUgiqVD8RQTmV6fplKT4x/8Z9+6na9i5scAvpLXo\nfaSDNpdmnIbRRXzZqZBuJ/Yz3Bc2TxavVLhY2d/ZAoGAEjlAAoYwYA+7ounsF+ct\ni7rBVueThDsthpwY1kxN3XnPLktEJLvpf9w3Nwv15nx7lKHI336N2m/Gw4QsVpyR\ncNqn9hGTJXG2aZqPz5No9DNjii1FMu57jSlU06PjEyNS4357nRW029Xkn8IkNVAN\n7VVnOeCwQSv7mX/eE5rEIIc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "wobblewedge@newstospeak.iam.gserviceaccount.com",
+  "client_id": "110646890609831482827",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wobblewedge%40newstospeak.iam.gserviceaccount.com"
+}
